@@ -1,0 +1,4 @@
+# Optional: Heroku container deploy (heroku stack:set container && git push heroku main).
+build:
+  docker:
+    web: Dockerfile

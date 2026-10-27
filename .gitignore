@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+backend/static/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Deploy tooling
+.vercel/
+
+# Local tooling (AI assistant settings stay out of the repo)
+.claude/
+CLAUDE.md
+CLAUDE.local.md

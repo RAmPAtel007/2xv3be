@@ -1,0 +1,9 @@
+.venv
+.claude
+.github
+**/__pycache__
+**/.pytest_cache
+**/.ruff_cache
+backend/tests
+backend/static
+docs

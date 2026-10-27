@@ -1,0 +1,7 @@
+services:
+  winddesk:
+    build: .
+    image: winddesk:latest
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
