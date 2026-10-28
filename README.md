@@ -8,7 +8,7 @@ A web app for a UK utility's day-ahead power desk. At the moment the team has to
 | | |
 |---|---|
 | **Live app** | https://2xv3be.vercel.app |
-| **Video walkthrough** | `https://youtu.be/<unlisted-id>` |
+| **Video walkthrough** | https://youtu.be/D7ssQSI6fqE (Part 1 client overview 0:00, Part 2 technical review 4:03) |
 | **API docs** | https://2xv3be.vercel.app/api/docs (OpenAPI) |
 
 Data: [Elexon BMRS](https://bmrs.elexon.co.uk/) `FUELHH` (wind outturn, 30 min) and `WINDFOR` (wind forecast, hourly, 8 publishes a day). No other data is used.

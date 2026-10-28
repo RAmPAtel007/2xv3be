@@ -23,3 +23,7 @@ Thumbs.db
 .claude/
 CLAUDE.md
 CLAUDE.local.md
+
+# Video production files (recordings, renders)
+video/
+audio/
